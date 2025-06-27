@@ -1,6 +1,6 @@
 # TypeScript Mission
 
-A hands-on TypeScript learning project featuring practical code examples for core TypeScript concepts. Each file in `mission-01/src/` and `mission-02/src` demonstrates a specific feature or pattern, making this repository a great resource for beginners and those looking to solidify their TypeScript fundamentals.
+A hands-on TypeScript learning project featuring practical code examples for core TypeScript concepts. Each file in `mission-01/src/`, `mission-02/src`, and `mission-03/src` demonstrates a specific feature or pattern, making this repository a great resource for beginners and those looking to solidify their TypeScript fundamentals.
 
 ## Project Structure
 
@@ -30,6 +30,18 @@ mission-02/
       ├── 09-conditional-types.ts
       ├── 10-mapped-types.ts
       └── 11-utility-type.ts
+mission-03/
+  └── src/
+      ├── 01-class-object.ts
+      ├── 02-inheritance.ts
+      ├── 03-type-guard-using-typeof-and-in.ts
+      ├── 04-type-guard-using-instance-of.ts
+      ├── 05-access-modifiers.ts
+      ├── 06-getter-setter.ts
+      ├── 07-statics.ts
+      ├── 08-polymorphism.ts
+      ├── 09-abstraction.ts
+      └── 10-encapsulation.ts
 ```
 
 ## Example File Descriptions
@@ -60,6 +72,19 @@ mission-02/
 - **09-conditional-types.ts**: Conditional types.
 - **10-mapped-types.ts**: Mapped types.
 - **11-utility-type.ts**: Utility types.
+
+### Mission 03
+
+- **01-class-object.ts**: Introduction to classes and objects in TypeScript.
+- **02-inheritance.ts**: Demonstrates inheritance in classes.
+- **03-type-guard-using-typeof-and-in.ts**: Type guards using `typeof` and `in` operators.
+- **04-type-guard-using-instance-of.ts**: Type guards using `instanceof` operator.
+- **05-access-modifiers.ts**: Usage of access modifiers (`public`, `private`, `protected`).
+- **06-getter-setter.ts**: Getters and setters in classes.
+- **07-statics.ts**: Static properties and methods.
+- **08-polymorphism.ts**: Polymorphism in TypeScript classes.
+- **09-abstraction.ts**: Abstract classes and methods.
+- **10-encapsulation.ts**: Encapsulation in object-oriented programming.
 
 ## Getting Started
 
